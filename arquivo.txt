@@ -1,0 +1,5 @@
+William Machado|email@email.com|50
+Enrico Fernandes|segundoemail@email.com|25
+Ana Paula|terceiroemail@email.com|40
+
+Jose Jesus|pessoa4@gmail.com|13
